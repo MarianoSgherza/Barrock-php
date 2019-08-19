@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Santiago Mar\u00eda Cagliari",
+            "email": "santiago.cagliari@gmail.com",
+            "password": "$2y$10$.3Hxil8Yrq0Alr6fKvfmz.ve2jCabzVyFeiqOH.xqmxhIAXLmfdNK",
+            "id": 1,
+            "imagen": ".\/avatar\/perfil_santiago.cagliari@gmail.com.jpg"
+        },
+        {
+            "nombre": "Mariano",
+            "email": "marianosgherza@gmail.com",
+            "password": "$2y$10$Z963ECv0Ob\/E0QoyWJxhVuNLWEvmwxy3kEGqNuOgxSsRf1VnT\/tc2",
+            "id": 2,
+            "imagen": ".\/avatar\/perfil_marianosgherza@gmail.com.png"
+        }
+    ]
+}
